@@ -1,0 +1,10 @@
+title: Atrakcje Malty
+description: Przewodnik po wyspie
+theme: minima
+nav_pages:
+  - title: Strona Główna
+    url: /index.html
+  - title: Valletta
+    url: /valletta.html
+  - title: Mdina i Gozo
+    url: /mdina-gozo.html
