@@ -8,3 +8,9 @@ nav_pages:
     url: /valletta.html
   - title: Mdina i Gozo
     url: /mdina-gozo.html
+# Ustawienia dodatkowe
+show_excerpts: true
+header_pages:
+  - index.md
+  - valletta.md
+  - mdina-gozo.md
