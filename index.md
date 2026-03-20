@@ -2,7 +2,7 @@
 layout: page
 title: Witaj na Malcie
 ---
-![Widok na Maltę](https://images.unsplash.com/photo-1516483642775-22db950c482a?auto=format&fit=crop&w=1200&q=80)
+![Panorama Valletty](https://i.pinimg.com/736x/57/5b/dd/575bdd7d091aa397f1647d2681757951.jpg)
 
 *Malta - wyspa, w której można się zakochać od pierwszego wejrzenia.*
 
