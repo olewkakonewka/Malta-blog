@@ -2,7 +2,7 @@
 layout: page
 title: Witaj na Malcie
 ---
-![Panorama Valletty](https://i.pinimg.com/736x/57/5b/dd/575bdd7d091aa397f1647d2681757951.jpg)
+![Mapa Malty](https://i.pinimg.com/1200x/17/cc/3e/17cc3ea7f6892a5d504a72700d9b22b0.jpg)
 
 *Malta - wyspa, w której można się zakochać od pierwszego wejrzenia.*
 
@@ -11,7 +11,7 @@ title: Witaj na Malcie
 * [Dlaczego warto?](#dlaczego-warto)
 
 ## O wyspie
-Malta to maleńki archipelag z ogromną historią.
+Malta to maleńki archipelag rzucony na samo serce Morza Śródziemnego, który kryje w sobie ponad siedem tysięcy lat fascynującej historii. Choć całe państwo jest mniejsze od Krakowa, zagęszczenie zabytków, megalitycznych świątyń i barokowej architektury potrafi przyprawić o zawrót głowy. Spacerując wąskimi uliczkami z piaskowca, można odnieść wrażenie, że czas się tu zatrzymał, a każdy budynek ma do opowiedzenia własną, rycerską legendę. To miejsce, gdzie błękit nieba idealnie komponuje się z turkusową wodą okolicznych zatok, tworząc krajobraz jak z najpiękniejszej pocztówki.
 
 ## Dlaczego warto?
 
