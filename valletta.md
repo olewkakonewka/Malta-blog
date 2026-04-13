@@ -3,6 +3,8 @@ layout: page
 title: Valletta - Stolica Kultury
 ---
 ![VALETTA](https://i.pinimg.com/1200x/da/2e/54/da2e548b41451ddfaa2fe7c4bebb3f68.jpg)
+
+Valletta, choć jest jedną z najmniejszych stolic europejskich, stanowi potężny ośrodek kultury, który w 2018 roku dumnie nosił tytuł Europejskiej Stolicy Kultury. Miasto, zbudowane przez joannitów jako „miasto zbudowane przez dżentelmenów dla dżentelmenów”, jest w całości wpisane na listę światowego dziedzictwa UNESCO, co czyni je swego rodzaju muzeum pod gołym niebem. To tutaj barokowa architektura, reprezentowana przez zapierającą dech w piersiach Konkatedrę św. Jana, harmonijnie współistnieje z nowoczesnymi projektami, takimi jak budynek parlamentu autorstwa Renzo Piano. Valletta nie jest jednak tylko skansenem przeszłości; to tętniące życiem centrum wydarzeń artystycznych, od prestiżowego Malta Jazz Festival po liczne wystawy w galerii MUŻA, które przyciągają twórców i pasjonatów sztuki z całego świata, czyniąc z maltańskiej stolicy prawdziwe serce Morza Śródziemnego.
 ## Spis treści
 * [Konkatedra św. Jana](#konkatedra)
 * [Ogrody Upper Barrakka](#ogrody)
