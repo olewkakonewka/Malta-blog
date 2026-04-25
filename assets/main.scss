@@ -2,21 +2,31 @@
 ---
 @import "minima";
 
-body {
+// Wymuszenie koloru tła na najwyższym poziomie
+html, body {
   background-color: #F9F7F2 !important;
   color: #1A2B3C !important;
 }
 
-h1, h2, h3, .site-title {
+// Nagłówki i tytuł strony
+h1, h2, h3, .site-title, .site-title:visited {
   color: #005596 !important;
 }
 
-a {
+// Linki w tekście i menu
+a, .page-link {
   color: #005596 !important;
   text-decoration: underline !important;
 }
 
+// Pasek nawigacji na górze
 .site-header {
-  border-top: 5px solid #005596 !important;
   background-color: #F9F7F2 !important;
+  border-top: 5px solid #005596 !important;
+}
+
+// Stopka na dole
+.site-footer {
+  background-color: #F9F7F2 !important;
+  border-top: 1px solid #e8e8e8;
 }
