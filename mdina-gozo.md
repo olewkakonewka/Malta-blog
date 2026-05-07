@@ -3,6 +3,10 @@ layout: page
 title: Mdina i Gozo
 ---
 
+![ZNACZKI](https://i.pinimg.com/736x/e0/7e/d2/e07ed265cb46ae3ac5f06e9afcd0eec4.jpg)
+
+Maltańska Mdina i pobliska wyspa Gozo to dwa zupełnie inne światy, choć oba są kwintesencją spokoju. Obie lokalizacje oferują ucieczkę od zgiełku głównych kurortów, skupiając się bardziej na historii i krajobrazach niż na nowoczesnych rozrywkach.
+
 ## Spis treści
 * [Ciche Miasto](#ciche-miasto)
 * [Błękitna Laguna](#blekitna-laguna)
